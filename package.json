@@ -47,7 +47,7 @@
     "markdown-it-implicit-figures": "^0.10.0",
     "md5": "^2.3.0",
     "minio": "^7.0.18",
-    "nanoid": "^3.1.22",
+    "nanoid": "^3.1.31",
     "next": "^10.2.0",
     "next-connect": "^0.10.1",
     "next-iron-session": "^4.1.11",
